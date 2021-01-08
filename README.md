@@ -6,7 +6,7 @@ Layout:
 
 Parts List (What I'm currently using/purchased):
 <br /> 20x [1N4148 Diodes](https://www.newark.com/on-semiconductor/1n4148tr/small-signal-diode-100v-200ma/dp/05R0353?CMP=AFC-OP)
-<br /> [30 AWG Electrical Wires](https://www.amazon.com/StrivedayTM-Flexible-Silicone-electronic-electrics/dp/B01KQ2JNLI/ref=sr_1_5?dchild=1&keywords=30+awg&qid=1610095320&sr=8-5)
+<br /> 1x [30 AWG Electrical Wires](https://www.amazon.com/StrivedayTM-Flexible-Silicone-electronic-electrics/dp/B01KQ2JNLI/ref=sr_1_5?dchild=1&keywords=30+awg&qid=1610095320&sr=8-5)
 (use whatever you have)
 <br /> 20x [1U XDA White Blanks Keycaps](https://www.amazon.com/gp/product/B08DHDPHBF/ref=ewc_pr_img_2?smid=A1G2DAU9UMKTBG&psc=1)
 <br /> 1x [Elite-C V4 - ATmega32u4](https://keeb.io/collections/frontpage/products/elite-c-low-profile-version-usb-c-pro-micro-replacement-atmega32u4)
