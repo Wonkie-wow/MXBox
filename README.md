@@ -24,5 +24,5 @@ Build Log:
 Relevant Links/Resources:
 <br /> [QMK Documentation](https://docs.qmk.fm/)
 <br /> [How to Handwire a keyboard](https://www.youtube.com/watch?v=aFr8PEP5tlY)
-<br /> [Pro Micro](https://deskthority.net/wiki/Arduino_Pro_Micro)
+<br /> [Elite-C](https://deskthority.net/wiki/Elite-C)
 <br /> [MechMerlin's QMK Tutorial](https://www.youtube.com/watch?v=VR53Wo9Z960)
