@@ -16,7 +16,7 @@ Parts List (What I'm currently using/purchased):
 <br /> 1x Clear Acrylic Switch Plate
 <br /> 1x Clear Arcylic Bottom Plate (Both cut at Ponoko.com)
 <br /> Other case parts are optional
-<br /> 1x 3D Printed Middle Layer (Incomplete)
+<br /> 1x 3D Printed Middle Layer (incomplete)
 
 Build Log:
 <br /> • Orders placed for all parts and currently waiting for shipping
