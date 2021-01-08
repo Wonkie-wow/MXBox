@@ -13,8 +13,8 @@ Parts List (What I'm currently using/purchased):
 <br /> 20x [Kalih Box Jades Mechanical Clicky Switches](https://kbdfans.com/products/novelkeys-x-kailh-box-thick-clicks-navy-jade)
 (use whatever MX style mechanical switches you have)
 <br /> 4x [M2 Standoffs & Screws](https://keeb.io/products/m2-screws-and-standoffs)
-<br /> 1x Clear Acrylic Switch Plate part made at Ponoko.com
-<br /> 1x Clear Arcylic Bottom Plate part made at Ponoko.com
+<br /> 1x Clear Acrylic Switch Plate
+<br /> 1x Clear Arcylic Bottom Plate (Both cut at Ponoko.com)
 <br /> Other case parts are optional
 
 Build Log:
