@@ -1,7 +1,7 @@
 # MXBox 
 MX Style Hitbox used primarily for fighting games using [QMK Firmware](https://docs.qmk.fm/)
 
-Layout :
+Layout:
 <br /> ![](RawKeyboardLayout/layout.png)
 
 Parts List (What I'm currently using/purchased):
