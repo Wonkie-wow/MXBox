@@ -1,0 +1,8 @@
+#include "kb.h"
+
+const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
+
+	KEYMAP(
+		KC_Q, KC_W, KC_E, KC_R, KC_1, KC_ESC, KC_3, KC_U, KC_I, KC_O, 
+		KC_A, KC_S, KC_D, KC_F, KC_2, KC_ENT, KC_4, KC_J, KC_K, KC_L),
+};
